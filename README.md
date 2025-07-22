@@ -7,7 +7,7 @@
 🤖 Já atuei com **CLPs (PLC)**, **robôs industriais**, **sistemas SCADA** como **FTView**, **TIA Portal** e **Ignition SCADA**.  
 📐 Também possuo experiência no desenvolvimento de **PCBs**, incluindo projeto e confecção de placas eletrônicas.
 
-📚 Interesso-me por sistemas embarcados, DevOps, engenharia de software e tecnologias industriais inteligentes.
+📚 Interesso-me por Desenvolvimento de Software FrontEnds e BackEnds, DevOps, Engenharia de Software e tecnologias industriais inteligentes.
 
 
 ## 📈 Estatísticas
