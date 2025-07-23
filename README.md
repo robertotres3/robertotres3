@@ -1,13 +1,15 @@
 # 👋 Olá, eu sou o Roberto!
 
 🎯 Software Engineer com foco em aplicações web e automação industrial.  
-🔧 Experiência com **React**, **Next.js**, **NestJS**, **TypeScript**, **Docker**, **PostgreSQL**, **AWS (Lambdas)** e **CI/CD com GitHub Actions**.  
-🚀 Atuando atualmente como Software Engineer.
+🔧 Experiência com **React**, **Next.js**, **NestJS**, **TypeScript**, **Docker**, **PostgreSQL**, **SQL Server**, **Databricks**, **AWS (Lambdas)** e **CI/CD com GitHub Actions**.  
+🚀 Atuando atualmente como Software Engineer em projetos voltados a aplicações web e sistemas integrados.
 
-🤖 Já atuei como Automation Engineer com foco em **CLPs (PLC)**, **Robôs industriais**, **sistemas SCADA** como **FTView**, **TIA Portal** e **Ignition SCADA**.  
-📐 Também possuo experiência no desenvolvimento de **PCBs**, incluindo projeto e confecção de placas eletrônicas.
+🤖 Já atuei como Automation Engineer com foco em **CLPs (PLCs)**, **robôs industriais** e **sistemas SCADA** como **FTView**, **TIA Portal** e **Ignition SCADA**.  
+📐 Experiência no desenvolvimento completo de **PCBs**, incluindo projeto eletrônico e confecção de placas.
 
-📚 Interesso-me por desenvolvimento de Software FrontEnds e BackEnds, DevOps, Engenharia de Software e tecnologias industriais inteligentes.
+🗄️ Sólido conhecimento em bancos de dados relacionais e analíticos, como **PostgreSQL**, **SQL Server** e **Databricks**.
+
+📚 Interesso-me por desenvolvimento de **softwares front-end e back-end**, **DevOps**, **engenharia de software escalável** e **tecnologias industriais inteligentes**.
 
 
 ## 📈 Estatísticas
@@ -25,13 +27,18 @@
 
 ## 🔧 Tecnologias
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E4202E?style=for-the-badge&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+
 
 
 ## 📌 Projetos em destaque
