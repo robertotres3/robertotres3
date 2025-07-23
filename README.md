@@ -1,15 +1,21 @@
 # 👋 Olá, eu sou o Roberto!
 
 🎯 Software Engineer com foco em aplicações web e automação industrial.  
-🔧 Experiência com **React**, **Next.js**, **NestJS**, **TypeScript**, **Docker**, **PostgreSQL**, **SQL Server**, **Databricks**, **AWS (Lambdas)** e **CI/CD com GitHub Actions**.  
-🚀 Atuando atualmente como Software Engineer em projetos voltados a aplicações web e sistemas integrados.
 
-🤖 Já atuei como Automation Engineer com foco em **CLPs (PLCs)**, **robôs industriais** e **sistemas SCADA** como **FTView**, **TIA Portal** e **Ignition SCADA**.  
-📐 Experiência no desenvolvimento completo de **PCBs**, incluindo projeto eletrônico e confecção de placas.
+🔧 Experiência com **React**, **Next.js**, **NestJS**, **TypeScript**, **Docker**, **PostgreSQL**, **SQL Server**, **Databricks**,**Fast-API**,  **AWS (Lambdas)** e **CI/CD com GitHub Actions**. 
+
+🧶 Já trabalhei com **Django**, **Express**.
 
 🗄️ Sólido conhecimento em bancos de dados relacionais e analíticos, como **PostgreSQL**, **SQL Server** e **Databricks**.
 
+⛳ Experiencia em bancos de dados não relacionais, como **MongoDB** e **Dynamo**.
+
+🚀 Atuando atualmente como Software Engineer em projetos voltados a aplicações web e sistemas integrados.
+
 📚 Interesso-me por desenvolvimento de **softwares front-end e back-end**, **DevOps**, **engenharia de software escalável** e **tecnologias industriais inteligentes**.
+
+🤖 Já atuei como Automation Engineer com foco em **CLPs (PLCs)**, **robôs industriais** e **sistemas SCADA** como **FTView**, **TIA Portal** e **Ignition SCADA**.  
+📐 Experiência no desenvolvimento completo de **PCBs**, incluindo projeto eletrônico e confecção de placas.
 
 
 ## 📈 Estatísticas
