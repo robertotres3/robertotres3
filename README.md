@@ -13,10 +13,15 @@
 ## 📈 Estatísticas
 
 ![GitHub Stats](https://read-me-github-stats.vercel.app/api?username=robertotres3&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs)
+
+
 ![Top Langs](https://read-me-github-stats.vercel.app/api/top-langs/?username=robertotres3&layout=compact&count_private=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=robertotres3)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🏆 Trophies
 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=robertotres3&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ## 🔧 Tecnologias
 
