@@ -49,7 +49,7 @@
 
 ## 📌 Projetos em destaque
 
-### 🔹 [blog-nextjs](https://github.com/robertotres3/blog-nextjs)
+### 🔹 Working on
 Blog pessoal com suporte a Markdown e painel administrativo.  
 `Next.js` • `TypeScript` • `MUI` • `Drizzle ORM`
 
