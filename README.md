@@ -2,9 +2,9 @@
 
 🎯 Software Engineer com foco em aplicações web e automação industrial.  
 
-🔧 Experiência com **React**, **Next.js**, **NestJS**, **TypeScript**, **Docker**, **PostgreSQL**, **SQL Server**, **Databricks**,**Fast-API**,  **AWS (Lambdas)** e **CI/CD com GitHub Actions**. 
+🔧 Experiência com **React**, **Next.js**, **NestJS**, **Docker**, **PostgreSQL**, **SQL Server**, **Databricks**, **Fast-API**, **AWS (Lambdas, ECR, EC2, EKS, VPC, S3)** e **CI/CD com GitHub Actions**. 
 
-🧶 Já trabalhei com **Django**, **Express**.
+🧶 No passado já trabalhei com **Django** e **Express**...
 
 🗄️ Sólido conhecimento em bancos de dados relacionais e analíticos, como **PostgreSQL**, **SQL Server** e **Databricks**.
 
