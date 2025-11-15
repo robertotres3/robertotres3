@@ -17,7 +17,8 @@
 📚 Interesso-me por desenvolvimento de **softwares front-end e back-end**, **DevOps**, **engenharia de software escalável** e **tecnologias industriais inteligentes**.
 
 🤖 Já atuei como Automation Engineer com foco em **CLPs (PLCs)**, **robôs industriais** e **sistemas SCADA** como **FTView**, **TIA Portal** e **Ignition SCADA**.  
-📐 Experiência no desenvolvimento completo de **PCBs**, incluindo projeto eletrônico e confecção de placas.
+
+📐 Hobby no desenvolvimento completo de **PCBs**, incluindo projeto eletrônico e confecção de placas.
 
 
 ## 📈 Estatísticas
