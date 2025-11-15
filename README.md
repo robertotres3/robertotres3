@@ -53,9 +53,9 @@
 ## 📌 Projetos em destaque
 
 ### 🔹 Working on
-Getting AWS certified SSA-C03 Associate.
-Getting AWS certified SSA Professional.
-Blog pessoal com suporte a Markdown e painel administrativo.  
+- Getting AWS certified SSA-C03 Associate.
+- Getting AWS certified SSA Professional.
+- Blog pessoal com suporte a Markdown e painel administrativo.  
 `Next.js` • `TypeScript` • `MUI` • `Drizzle ORM`
 
 
