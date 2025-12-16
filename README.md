@@ -6,17 +6,15 @@
 
 🔧 Experiência com **React**, **Next.js**, **NestJS**, **Docker**, **PostgreSQL**, **SQL Server**, **Databricks**, **Fast-API**, **AWS (Lambdas, ECR, EC2, EKS, VPC, S3, Dynamo)** e **CI/CD com GitHub Actions**. 
 
-🧶 No passado já trabalhei com **Django** e **Express**...
-
 🗄️ Sólido conhecimento em bancos de dados relacionais e analíticos, como **PostgreSQL**, **SQL Server** e **Databricks**.
 
-⛳ Experiencia em bancos de dados não relacionais, como **MongoDB** e **Dynamo**.
+⛳ Experiencia em bancos de dados não relacionais, como **MongoDB** e **DynamoDB**.
 
 🚀 Atuando atualmente como Software Engineer em projetos voltados a aplicações web e sistemas integrados.
 
-📚 Interesso-me por desenvolvimento de **softwares front-end e back-end**, **DevOps**, **engenharia de software escalável** e **tecnologias industriais inteligentes**.
+📚 Interesso-me por desenvolvimento de **softwares front-end e back-end**, **DevOps** e **tecnologias industriais inteligentes**.
 
-🤖 Já atuei como Automation Engineer com foco em **CLPs (PLCs)**, **robôs industriais** e **sistemas SCADA** como **FTView**, **TIA Portal** e **Ignition SCADA**.  
+🤖 Já atuei como Automation Engineer com foco em **CLPs (PLCs)**, **robôs industriais** e **sistemas SCADA** como **FTView**, **Studio5000**, **TIA Portal** e **Ignition SCADA**.  
 
 📐 Hobby no desenvolvimento completo de **PCBs**, incluindo projeto eletrônico e confecção de placas.
 
