@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Tres!
+# 👋 Olá!
 
 🎯 Software Engineer com foco em aplicações web e automação industrial.  
 
