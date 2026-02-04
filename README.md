@@ -8,7 +8,7 @@
 
 🗄️ Sólido conhecimento em bancos de dados relacionais e analíticos, como **PostgreSQL**, **SQL Server** e **Databricks**.
 
-⛳ Experiencia em bancos de dados não relacionais, como **MongoDB** e **DynamoDB**.
+⛳ Experiencia em bancos de dados não relacionais **DynamoDB**.
 
 🚀 Atuando atualmente como Software Engineer em projetos voltados a aplicações web e sistemas integrados.
 
