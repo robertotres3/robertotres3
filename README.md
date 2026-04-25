@@ -49,11 +49,15 @@
 
 
 ## 📌 Projetos em destaque
+### 🔹 Certificated
+- Cloud Solution Architecture practitioner
 
 ### 🔹 Working on
 - Getting AWS certified SSA-C03 Associate.
 - Getting AWS certified SSA Professional.
-- Blog pessoal com suporte a Markdown e painel administrativo.  
+- Blog pessoal com suporte a Markdown e painel administrativo.
+- Postgrad Ethical Hacking e Cybersecurity
+- Postgrad Software engineering with an emphasis on software quality and testing.
 `Next.js` • `TypeScript` • `MUI` • `Drizzle ORM`
 
 
